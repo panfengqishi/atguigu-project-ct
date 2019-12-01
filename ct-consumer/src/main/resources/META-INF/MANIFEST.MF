@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Main-Class: com.atguigu.ct.consumer.Bootstrap
+Class-Path: aopalliance-1.0.jar slf4j-log4j12-1.7.25.jar hbase-server-1.
+ 3.1.jar jaxb-api-2.2.2.jar log4j-1.2.17.jar protobuf-java-2.5.0.jar com
+ mons-el-1.0.jar hadoop-common-2.5.1.jar commons-configuration-1.6.jar g
+ uice-servlet-3.0.jar leveldbjni-all-1.8.jar httpclient-4.2.5.jar java-x
+ mlbuilder-0.4.jar hadoop-yarn-server-common-2.5.1.jar servlet-api-2.5.j
+ ar scala-library-2.12.2.jar zkclient-0.10.jar servlet-api-2.5-6.1.14.ja
+ r hadoop-mapreduce-client-app-2.5.1.jar hbase-common-1.3.1-tests.jar hb
+ ase-procedure-1.3.1.jar hamcrest-core-1.3.jar api-util-1.0.0-M20.jar je
+ ttison-1.1.jar jopt-simple-5.0.3.jar jetty-sslengine-6.1.26.jar commons
+ -compress-1.4.1.jar httpcore-4.1.2.jar api-asn1-api-1.0.0-M20.jar hadoo
+ p-mapreduce-client-core-2.5.1.jar jersey-guice-1.9.jar hbase-hadoop-com
+ pat-1.3.1.jar jackson-core-asl-1.9.13.jar junit-4.12.jar hbase-annotati
+ ons-1.3.1.jar hbase-protocol-1.3.1.jar disruptor-3.3.0.jar commons-daem
+ on-1.0.13.jar asm-3.1.jar jetty-6.1.26.jar jackson-xc-1.8.3.jar hadoop-
+ client-2.5.1.jar lz4-1.3.0.jar hadoop-mapreduce-client-common-2.5.1.jar
+  zookeeper-3.4.10.jar commons-collections-3.2.2.jar commons-lang-2.6.ja
+ r commons-math-2.2.jar commons-logging-1.2.jar jets3t-0.9.0.jar jersey-
+ core-1.9.jar jersey-client-1.9.jar kafka-clients-0.11.0.0.jar hadoop-ma
+ preduce-client-jobclient-2.5.1.jar commons-math3-3.1.1.jar kafka_2.12-0
+ .11.0.0.jar hadoop-hdfs-2.5.1.jar activation-1.1.jar findbugs-annotatio
+ ns-1.3.9-1.jar tools.jar jackson-jaxrs-1.9.13.jar xmlenc-0.52.jar hadoo
+ p-yarn-client-2.5.1.jar hbase-hadoop2-compat-1.3.1.jar hbase-common-1.3
+ .1.jar avro-1.7.4.jar slf4j-api-1.7.25.jar xz-1.0.jar javax.inject-1.ja
+ r commons-httpclient-3.1.jar jasper-runtime-5.5.23.jar jersey-json-1.9.
+ jar jsch-0.1.42.jar jetty-util-6.1.26.jar hadoop-annotations-2.5.1.jar 
+ guice-3.0.jar commons-cli-1.2.jar apacheds-kerberos-codec-2.0.0-M15.jar
+  jaxb-impl-2.2.3-1.jar stax-api-1.0-2.jar jsp-api-2.1-6.1.14.jar snappy
+ -java-1.1.2.6.jar commons-beanutils-1.7.0.jar commons-net-3.1.jar commo
+ ns-io-2.4.jar commons-codec-1.9.jar hadoop-yarn-common-2.5.1.jar netty-
+ all-4.0.23.Final.jar commons-beanutils-core-1.8.0.jar metrics-core-2.2.
+ 0.jar hadoop-mapreduce-client-shuffle-2.5.1.jar jackson-mapper-asl-1.9.
+ 13.jar scala-parser-combinators_2.12-1.0.4.jar jcodings-1.0.8.jar guava
+ -12.0.1.jar jamon-runtime-2.4.1.jar joni-2.1.2.jar apacheds-i18n-2.0.0-
+ M15.jar jsp-2.1-6.1.14.jar commons-digester-1.8.jar hadoop-auth-2.5.1.j
+ ar hadoop-yarn-api-2.5.1.jar hbase-client-1.3.1.jar htrace-core-3.1.0-i
+ ncubating.jar jasper-compiler-5.5.23.jar paranamer-2.3.jar jersey-serve
+ r-1.9.jar hbase-prefix-tree-1.3.1.jar
+
